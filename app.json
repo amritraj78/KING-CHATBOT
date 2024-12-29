@@ -1,5 +1,5 @@
 {
-  "name": "𝐀ɴɢʟᴇ‹✨",
+  "name": "𝐉𝐮𝐧𝐧𝐮‹✨",
   "description": "A telegram bot",
   "logo": "https://files.catbox.moe/9iwpfv.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/amritraj78/KING-CHATBOT",
+  "repository": "https://t.me/Shinnus_Dreamscape_Bots",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
